@@ -1,0 +1,13 @@
+---
+layout: default
+title: A Bull Creative
+---
+
+<div id="home">
+  <h1>My Work</h1>
+  {% for post in site.posts %}
+    <a href="{{ post.url }}">
+      <img src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
+    </a>
+  {% endfor %}
+</div>

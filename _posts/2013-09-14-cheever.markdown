@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Cheever"
+date:   2013-09-14 16:09:44
+categories: cover
+image: /images/cheever.jpg 
+thumbnail: /images/thumbs/cheever.gif
+---
+![Cheever][image]
+
+[image]: /images/cheever.jpg "Cheever"
