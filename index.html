@@ -4,10 +4,40 @@ title: A Bull Creative
 ---
 
 <div id="home">
-  <h1>My Work</h1>
-  {% for post in site.posts %}
-    <a href="{{ post.url }}">
-      <img src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
-    </a>
-  {% endfor %}
+  <div id="header">
+    <div id="left_menu">
+      <a href="/">work</a>
+      <a href="/">services</a>
+    </div>
+
+    <div id="logo">
+      <a href="/">
+        <img src="/images/abullcreativeweblogo.jpg"/>
+      </a>
+    </div>
+
+    <div id="right_menu">
+      <a href="/">about</a>
+      <a href="/">contact</a>
+    </div>
+
+    <div style="clear: both;"></div>
+    <span class="stretch"></span>
+  </div>
+
+  <div id="tagline">
+    stuff made good lookin'
+  </div>
+
+  <div class="gallery">
+    {% for post in site.posts %}
+      {% if post.homepage_order != nil %}
+      <a href="{{ post.url }}">
+        <img src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
+      </a>
+      {% endif %}
+    {% endfor %}
+    <span class="stretch"></span>
+  </div>
+
 </div>

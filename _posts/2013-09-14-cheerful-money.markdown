@@ -5,6 +5,7 @@ date:   2013-09-14 16:09:44
 categories: cover
 image: /images/cheerfulmoney.jpg 
 thumbnail: /images/thumbs/cheerfulmoney.gif
+slideshow: True
 ---
 ![Cheerful Money][image]
 

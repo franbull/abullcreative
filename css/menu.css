@@ -1,0 +1,51 @@
+
+#header {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#left_menu {
+
+}
+#left_menu, #right_menu {
+    float: left;
+    width: 35%;
+    font: verdana;
+}
+
+#left_menu a, #right_menu a {
+    margin-top: 75px;
+    margin-left: 10%;
+    display: inline-block;
+    width: 30%;
+}
+#right_menu a:link, #left_menu a:link {
+    text-decoration:none;
+    color: black;
+}
+#right_menu a:visited, #left_menu a:visited {
+    text-decoration:none;
+    color: black;
+}
+#right_menu a:hover, #left_menu a:hover {
+    text-decoration:underline;
+    color: lightgray;
+}
+#right_menu a:active, #left_menu a:active {
+    text-decoration:underline;
+    color: lightgray;
+}
+
+#logo {
+    float: left;
+    width: 30%;
+}
+
+#tagline {
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 20px;
+    color: #F635C9;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}

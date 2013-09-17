@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Bullit"
+date:   2013-09-16 16:09:44
+categories: logo
+image: /images/bullit.jpg 
+thumbnail: /images/thumbs/gray_bullit.jpg
+homepage_order: 3
+---
+![Bullit][image]
+
+[image]: /images/bullit.jpg "Bullit"

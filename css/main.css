@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-image:url('/images/abc_diag_stripe.png');
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -56,11 +56,17 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
+  background-color: #FFF;
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  /*width: 796px;*/
+  width: 80%;
   margin: 3em auto 2em;
   line-height: 1.5em;
+  border-top: solid 1px lightgray;
+  border-left: solid 1px lightgray;
+  border-bottom: solid 1px gray;
+  border-right: solid 1px gray;
 }
 
 .site .header a {
@@ -158,3 +164,6 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+
+
