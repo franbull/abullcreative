@@ -1,0 +1,26 @@
+---
+layout: default
+title: A Bull Creative
+---
+
+<div id="home">
+  <div id="work_menu">
+    {% for category in site.categories %}
+      <a href="#{{ category[0] }}">{{ category[0] }}</a>
+    {% endfor %}
+    <span class="stretch"></span>
+  </div>
+
+  {% for category in site.categories %}
+    <div class="category_gallery">
+      <h2 style="text-align: center;"><a id="{{ category[0] }}"></a> {{ category[0] }}</h2>
+      <div class="gallery">
+        {% for post in category[1] %}
+          <a href="{{ post.url }}"><img src="{{ post.thumbnail }}"></img></a>
+        {% endfor %}
+        <span class="stretch"></span>
+      </div>
+    </div>
+  {%endfor%}
+
+</div>

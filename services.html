@@ -1,0 +1,18 @@
+---
+layout: default
+title: A Bull Creative
+---
+
+<div id="home">
+  <div id="tagline">
+    stuff made good lookin'
+  </div>
+
+  <div class="content">
+{% capture services_page %}
+{% include services_page.markdown %}
+{% endcapture %}
+{{ services_page | markdownify }}
+  </div>
+
+</div>
