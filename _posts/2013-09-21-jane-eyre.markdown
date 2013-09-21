@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Jane Eyre"
+date:   2013-09-21 16:09:44
+categories: cover
+image: /images/book_covers/dontknow.jpg 
+thumbnail: /images/book_covers/gray_janeeyre.jpg
+---
+![Jane Eyre][image]
+
+[image]: /images/book_covers/dontknow.jpg "Jane Eyre"
