@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Siskiyou Challenge 2011 Logo"
+date:   2013-09-16 16:09:44
+categories: logo
+image: /images/logos/sc2011logo.jpg 
+thumbnail: /images/logos/gray_sclogo2011.jpg
+---
+![Siskiyou Challenge 2012 Logo][image]
+
+[image]: /images/logos/sc2011logo.jpg "Siskiyou Challenge 2011 Logo"

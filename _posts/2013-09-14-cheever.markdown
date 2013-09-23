@@ -4,7 +4,7 @@ title:  "Cheever"
 date:   2013-09-14 16:09:44
 categories: cover
 image: /images/book_covers/cheever_cassette.jpg 
-thumbnail: /images/thumbs/cheever.gif
+thumbnail: /images/book_covers/gray_cheever.jpg
 ---
 ![Cheever][image]
 
