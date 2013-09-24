@@ -3,9 +3,9 @@ layout: post
 title:  "The Ace"
 date:   2013-09-14 16:09:44
 categories: cover
-image: /images/the_ace_cassette.jpg 
+image: /images/book_covers/the_ace_cassette.jpg 
 thumbnail: /images/book_covers/gray_ace.jpg
 ---
 ![The Ace][image]
 
-[image]: /images/the_ace_cassette.jpg "The Ace"
+[image]: /images/book_covers/the_ace_cassette.jpg "The Ace"

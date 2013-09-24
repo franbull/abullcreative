@@ -3,7 +3,7 @@ layout: post
 title:  "Pat High"
 date:   2013-09-21 16:09:44
 categories: cover
-image: /images/book_covers/dontknow.jpg 
+image: /images/book_covers/pathigh_cassette.jpg 
 thumbnail: /images/book_covers/gray_pathigh.jpg
 ---
 ![Pat High][image]

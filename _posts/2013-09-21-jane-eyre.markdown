@@ -3,7 +3,7 @@ layout: post
 title:  "Jane Eyre"
 date:   2013-09-21 16:09:44
 categories: cover
-image: /images/book_covers/dontknow.jpg 
+image: /images/book_covers/jane_eyre_cassette.jpg 
 thumbnail: /images/book_covers/gray_janeeyre.jpg
 ---
 ![Jane Eyre][image]
