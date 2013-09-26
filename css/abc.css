@@ -14,6 +14,7 @@
 
 #mini_menu {
     display: inline-block;
+    width: 25%;
 }
 
 
@@ -41,7 +42,7 @@
     color: lightgray;
 }
 #footer_spacer_left {
-	width: 17%;
+	width: 10%;
     display: inline-block;
 }
 #footer_spacer_center {
@@ -55,4 +56,5 @@
 
 #copyright {
     display: inline-block;
+    width: 25%;
 }
