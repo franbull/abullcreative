@@ -15,19 +15,25 @@ html, body { height: 100%; }
 body {
   background-image:url('/images/abc_diag_stripe.png');
   font: 13.34px Helvetica, Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%; 
+  letter-spacing:1px;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a  { 
+  color: #f635c9; 
+  letter-spacing:1px;
+}
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:visited { color: #f635c9; }
 
 /*****************************************************************************/
 /*
@@ -103,8 +109,9 @@ ul.posts span {
 .site .footer {
   font-size: 80%;
   color: #666;
-  /*border-top: 4px solid #eee;*/
+  border-top: 2px solid #eee;
   margin-top: 2em;
+  padding-top: 15px;
   overflow: hidden;
 }
 
