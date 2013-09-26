@@ -65,7 +65,7 @@ ul.posts span {
   background-color: #FFF;
   font-size: 115%;
   text-align: justify;
-  /*width: 796px;*/
+  min-width: 510px;
   width: 80%;
   margin: 3em auto 2em;
   line-height: 1.5em;
