@@ -10,6 +10,7 @@
 .gallery a {
     display: inline-block;
     text-decoration: none;
+    padding: 10px;
     height: 95px;
     width: 190px;
     margin: 6px;
