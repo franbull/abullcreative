@@ -75,6 +75,10 @@ ul.posts span {
   border-right: solid 1px gray;
 }
 
+#home {
+  min-height: 360px;
+}
+
 .site .header a {
   font-weight: bold;
   text-decoration: none;
