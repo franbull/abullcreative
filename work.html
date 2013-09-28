@@ -16,9 +16,13 @@ title: A Bull Creative
       <h2 style="text-align: center;"><a id="{{ category[0] }}"></a> {{ category[0] }}</h2>
       <div class="gallery">
         {% for post in category[1] %}
-          <a data-fancybox-group="gallery" class="fancybox-thumb" href="{{ post.image }}" title="{{ post.title }}">
-            <img src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
-          </a>
+          <div class="box">
+            <div class="inner">
+              <a data-fancybox-group="gallery" class="fancybox-thumb" href="{{ post.image }}" title="{{ post.title }}">
+                <img src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
+              </a>
+            </div>
+          </div>
         {% endfor %}
         <span class="stretch"></span>
       </div>

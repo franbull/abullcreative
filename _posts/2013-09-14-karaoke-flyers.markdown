@@ -6,6 +6,7 @@ categories: assorted
 
 image: /images/flyers/karaoke1_poster.jpg 
 thumbnail: /images/flyers/gray_karaokeflyer.jpg
+homepage_order: 1
 ---
 ![Karaoke Flyers][image]
 

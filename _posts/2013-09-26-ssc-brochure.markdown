@@ -5,6 +5,7 @@ date:   2013-09-21 16:09:44
 categories: brochures
 image: /images/brochure/sscbrochure.jpg
 thumbnail: /images/brochure/gray_sscbrochure.jpg
+homepage_order: 1
 ---
 ![SSC CSA Brochure][image]
 

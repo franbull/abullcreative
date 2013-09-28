@@ -5,6 +5,7 @@ date:   2013-09-16 16:09:44
 categories: logo
 image: /images/logos/sc2013logo.jpg 
 thumbnail: /images/logos/gray_sclogo2013.jpg
+homepage_order: 1
 ---
 ![Siskiyou Challenge 2013 Logo][image]
 
