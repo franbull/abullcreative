@@ -9,6 +9,7 @@
 
 .footer {
 	padding-left: 20px;
+	padding-right: 20px;
     white-space: nowrap;
 }
 
@@ -41,20 +42,8 @@
     text-decoration:underline;
     color: lightgray;
 }
-#footer_spacer_left {
-	width: 10%;
-    display: inline-block;
-}
-#footer_spacer_center {
-	width: 17%;
-    display: inline-block;
-}
-#footer_spacer_right {
-	width: 17%;
-    display: inline-block;
-}
 
 #copyright {
     display: inline-block;
-    width: 25%;
+    float: right;
 }
