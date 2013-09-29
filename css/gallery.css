@@ -53,3 +53,10 @@
       padding-bottom: 12.6%;
    }
 }
+@media only screen and (min-width : 1291px){
+   /* Medium desktop: 4 tiles */
+   .box {
+      width: 19%;
+      padding-bottom: 9.8%;
+   }
+}
